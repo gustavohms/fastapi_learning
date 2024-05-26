@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "id": 0,
+            "name": "string",
+            "price": 0.0
+        },
+        {
+            "id": 1,
+            "name": "Macbook",
+            "price": 12.0
+        },
+        {
+            "id": 2,
+            "name": "Notebook Samsung",
+            "price": 3.5
+        }
+    ]
+}
